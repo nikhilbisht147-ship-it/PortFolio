@@ -8,8 +8,8 @@ import resume from '../../public/resume.pdf'
 
 const roles = [
   'React Developer',
-  'Frontend Engineer',
-  'Full-Stack Capable',
+  'Web Developer',
+  'MERN-Stack Developer',
   'Problem Solver'
 ]
 
@@ -98,9 +98,7 @@ const Hero = () => {
 
             {/* Dynamic Typing Role */}
             <div className="mt-2.5 flex items-center justify-center lg:justify-start gap-2 h-9">
-              <span className="text-lg sm:text-xl font-medium text-slate-400 dark:text-slate-500">
-                Focusing on
-              </span>
+              
               <span className="text-xl sm:text-2xl lg:text-3xl font-bold text-indigo-600 dark:text-indigo-400 tracking-tight transition-colors duration-300">
                 {currentText}
               </span>
@@ -169,7 +167,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="https://wa.me/qr/45WRQDHRYUJID1"
+                href="https://wa.me/917467809598?text=Hi%20Jitendra,%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20talk."
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="WhatsApp Chat"

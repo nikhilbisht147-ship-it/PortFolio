@@ -124,10 +124,7 @@ const ContactMe = () => {
             </div>
 
             <div className="pt-8 mt-8 border-t border-slate-800/80">
-              <span className="text-xs text-slate-400 flex items-center gap-2">
-                <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
-                Based in India • Open to remote roles worldwide
-              </span>
+              
             </div>
           </div>
 
@@ -162,7 +159,7 @@ const ContactMe = () => {
                   name="name"
                   type="text"
                   required
-                  placeholder="Jane Doe"
+                  placeholder="Your name"
                   className="w-full px-4 py-3 text-sm text-slate-900 dark:text-white bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700/80 rounded-xl focus:outline-none focus:bg-white dark:focus:bg-slate-800 focus:border-indigo-500 dark:focus:border-indigo-400 focus:ring-4 focus:ring-indigo-500/10 placeholder-slate-400 dark:placeholder-slate-500 transition-all duration-200"
                 />
               </div>
@@ -176,7 +173,7 @@ const ContactMe = () => {
                   name="email"
                   type="email"
                   required
-                  placeholder="jane@example.com"
+                  placeholder="you@example.com"
                   className="w-full px-4 py-3 text-sm text-slate-900 dark:text-white bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700/80 rounded-xl focus:outline-none focus:bg-white dark:focus:bg-slate-800 focus:border-indigo-500 dark:focus:border-indigo-400 focus:ring-4 focus:ring-indigo-500/10 placeholder-slate-400 dark:placeholder-slate-500 transition-all duration-200"
                 />
               </div>

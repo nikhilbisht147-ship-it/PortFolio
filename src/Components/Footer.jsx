@@ -8,13 +8,13 @@ const Footer = () => {
   }
 
   return (
-    <footer className="bg-slate-900 border-t border-slate-800 py-12 text-slate-400">
-      <div className="max-w-6xl mx-auto px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-6">
+    <footer className="bg-slate-900 border-t mb-0 border-slate-800 py-12 text-slate-400">
+      <div className="max-w-6xl mx-auto px-6  lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-6">
         
         {/* Brand / Copyright */}
         <div className="text-center sm:text-left">
           <p className="text-sm text-slate-300 font-medium">
-            Designed & Built by <span className="text-white font-semibold">Nikhil Bisht</span>
+            Designed & Built by <span className="text-white font-semibold">Jitendra Bisht</span>
           </p>
           <p className="text-xs text-slate-500 mt-1">
             © {new Date().getFullYear()} All rights reserved.

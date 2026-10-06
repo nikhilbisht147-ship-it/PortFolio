@@ -28,7 +28,7 @@ const About = () => {
               I am a <strong className="text-slate-900 dark:text-white font-bold">Full Stack Developer</strong> specializing in the MERN stack (React, Node.js, Express, MongoDB) with a focus on creating responsive, performant, and intuitive digital experiences.
             </p>
             <p>
-              Coming from a non-IT background, my journey into technology was driven by pure curiosity and a love for building things from scratch. Transitioning into software engineering taught me how to learn rapidly, break down complex architectures, and approach problems with fresh perspective and discipline.
+            As a self-taught developer, I learned early on how to break down complex architectures, pick up new technologies fast, and solve real-world problems with discipline.
             </p>
             <p>
               Whether designing clean client-side interfaces or architecting RESTful APIs and databases, I strive to write readable, maintainable code that delivers real-world value.

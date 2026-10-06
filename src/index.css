@@ -1,8 +1,23 @@
 @import "tailwindcss";
-html{
-    scroll-behavior: smooth;
-}
 
-/* Add this line right below the import: */
 @custom-variant dark (&:where(.dark, .dark *));
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #0b0f17; /* Matches your dark theme */
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
