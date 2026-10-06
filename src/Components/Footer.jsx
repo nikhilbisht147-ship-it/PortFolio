@@ -1,6 +1,7 @@
 import React from 'react'
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa'
 import { FiArrowUp } from 'react-icons/fi'
+import { FaRegCopyright } from "react-icons/fa";
 
 const Footer = () => {
   const scrollToTop = () => {
@@ -16,8 +17,8 @@ const Footer = () => {
           <p className="text-sm text-slate-300 font-medium">
             Designed & Built by <span className="text-white font-semibold">Jitendra Bisht</span>
           </p>
-          <p className="text-xs text-slate-500 mt-1">
-            © {new Date().getFullYear()} All rights reserved.
+          <p className="text-xs text-slate-500 mt-1 flex gap-2 items-center">
+          <FaRegCopyright /> {new Date().getFullYear()} All rights reserved.
           </p>
         </div>
 
