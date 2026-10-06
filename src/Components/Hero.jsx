@@ -4,6 +4,7 @@ import { FaWhatsapp, FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons/fa'
 import { MdOutlineFileDownload } from 'react-icons/md'
 import { IoIosArrowRoundForward } from 'react-icons/io'
 import { FiCode } from 'react-icons/fi'
+import resume from '../../public/resume.pdf'
 
 const roles = [
   'React Developer',
@@ -92,7 +93,7 @@ const Hero = () => {
 
             {/* Balanced Name */}
             <h1 className="text-3xl sm:text-4xl lg:text-[42px] font-bold text-slate-900 dark:text-white tracking-tight leading-tight transition-colors duration-300">
-              Hi, I’m Jitendra Bisht<span className="text-indigo-600 dark:text-indigo-400">.</span>
+              Hi, I'm Jitendra Bisht<span className="text-indigo-600 dark:text-indigo-400">.</span>
             </h1>
 
             {/* Dynamic Typing Role */}
@@ -122,7 +123,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="/resume.pdf"
+                href={resume}
                 download
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-7 py-3 rounded-xl bg-white dark:bg-slate-900 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 font-semibold text-sm border border-slate-200 dark:border-slate-800 shadow-2xs hover:border-slate-300 dark:hover:border-slate-700 hover:-translate-y-0.5 transition-all duration-200 cursor-pointer"
               >
