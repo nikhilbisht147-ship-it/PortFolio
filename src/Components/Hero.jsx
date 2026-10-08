@@ -157,7 +157,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="https://www.instagram.com/_nikhil_bisht01?stkn=NmQ4bzZ4cXdoaHc1"
+                href="https://www.instagram.com/jitendrabisht.dev"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Instagram Profile"
