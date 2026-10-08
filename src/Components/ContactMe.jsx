@@ -77,7 +77,7 @@ const ContactMe = () => {
               <div className="mt-8 space-y-4 sm:space-y-5">
                 {/* Email */}
                 <a
-                  href="mailto:nikhilbisht147@gmail.com"
+                  href="mailto:jitendrabisht.dev@gmail.com"
                   className="flex items-center gap-3.5 sm:gap-4 group text-slate-300 hover:text-white transition-colors p-2 -mx-2 rounded-xl hover:bg-slate-800/60"
                 >
                   <div className="p-2.5 sm:p-3 rounded-xl bg-slate-800 border border-slate-700/80 group-hover:border-indigo-500 transition-colors shrink-0">
@@ -85,7 +85,7 @@ const ContactMe = () => {
                   </div>
                   <div className="min-w-0">
                     <p className="text-[11px] text-slate-400 font-semibold uppercase tracking-wider">Email</p>
-                    <p className="text-xs sm:text-sm font-semibold text-slate-200 group-hover:text-white truncate">nikhilbisht147@gmail.com</p>
+                    <p className="text-xs sm:text-sm font-semibold text-slate-200 group-hover:text-white truncate">jitendrabisht.dev@gmail.com</p>
                   </div>
                 </a>
 

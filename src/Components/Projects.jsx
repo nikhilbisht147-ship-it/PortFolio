@@ -57,7 +57,7 @@ const Projects = () => {
             Featured Projects
           </h2>
           <p className="mt-3 text-sm sm:text-base lg:text-lg text-slate-600 dark:text-slate-400 transition-colors">
-            A selection of web applications I’ve built demonstrating full-stack engineering, clean UI design, and scalable architecture.
+            A selection of web applications I've built demonstrating full-stack engineering, clean UI design, and scalable architecture.
           </p>
         </div>
 
@@ -104,7 +104,7 @@ const Projects = () => {
                 </div>
 
                 {/* Card Actions */}
-                <div className="mt-auto pt-6 flex items-center justify-between border-t border-slate-100 dark:border-slate-800/80 transition-colors">
+                <div className="mt-auto pt-6 flex items-center justify-between border-slate-100 dark:border-slate-800/80 transition-colors">
                   <a
                     href={item.githubLink}
                     target="_blank"
