@@ -91,7 +91,7 @@ const ContactMe = () => {
 
                 {/* GitHub */}
                 <a
-                  href="https://github.com/nikhilbisht147-ship-it"
+                  href="https://github.com/jitendrabisht147"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3.5 sm:gap-4 group text-slate-300 hover:text-white transition-colors p-2 -mx-2 rounded-xl hover:bg-slate-800/60"
@@ -101,7 +101,7 @@ const ContactMe = () => {
                   </div>
                   <div className="min-w-0">
                     <p className="text-[11px] text-slate-400 font-semibold uppercase tracking-wider">GitHub</p>
-                    <p className="text-xs sm:text-sm font-semibold text-slate-200 group-hover:text-white truncate">nikhilbisht147-ship-it</p>
+                    <p className="text-xs sm:text-sm font-semibold text-slate-200 group-hover:text-white truncate">jitendrabisht147</p>
                   </div>
                 </a>
 

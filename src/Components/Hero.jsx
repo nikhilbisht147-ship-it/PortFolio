@@ -137,7 +137,7 @@ const Hero = () => {
               </span>
 
               <a
-                href="https://github.com/nikhilbisht147-ship-it"
+                href="https://github.com/jitendrabisht147"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub Profile"

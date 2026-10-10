@@ -15,7 +15,7 @@ const projects = [
     category: 'React App',
     para: "An agricultural portal offering real-time mandi prices, localized weather forecasts, and government scheme updates to help farmers make data-driven decisions.",
     stack: ['React', 'JavaScript', 'Tailwind CSS'],
-    githubLink: 'https://github.com/nikhilbisht147-ship-it/Grocify-website.git',
+    githubLink: 'https://github.com/jitendrabisht147/Grocify-website.git',
     liveLink: 'https://grocify-website.onrender.com',
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     category: 'Frontend Web App',
     para: "A high-conversion landing page featuring dynamic class schedules, interactive membership calculators, and a seamless trainer booking UI.",
     stack: ['Html', 'CSS', 'Bootstarp'],
-    githubLink: 'https://github.com/nikhilbisht147-ship-it/Fitness-Freak.git',
+    githubLink: 'https://github.com/jitendrabisht147/Fitness-Freak.git',
     liveLink: 'https://fitness-freak-mocha.vercel.app/',
   },
   {
@@ -35,7 +35,7 @@ const projects = [
     category: 'Full Stack App',
     para: "A digital dining platform featuring an interactive menu, order-ahead capabilities, and an automated table reservation flow.",
     stack: ['React', 'Node.js', 'MongoDB', 'Tailwind CSS'],
-    githubLink: 'https://github.com/nikhilbisht147-ship-it/PrepWise-AI.git',
+    githubLink: 'https://github.com/jitendrabisht147/PrepWise-AI.git',
     liveLink: 'https://prep-wise-ai-blue.vercel.app/',
   },
 ]
