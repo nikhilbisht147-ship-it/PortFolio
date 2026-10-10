@@ -4,14 +4,14 @@ import { FaWhatsapp, FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons/fa'
 import { MdOutlineFileDownload } from 'react-icons/md'
 import { IoIosArrowRoundForward } from 'react-icons/io'
 import { FiCode } from 'react-icons/fi'
-import resume from '../../public/resume.pdf'
+const resume = '/Jitendra-Bisht-Resume.pdf'
 
 const roles = [
   'React Developer',
   'Web Developer',
   'MERN-Stack Developer',
   'Problem Solver'
-]
+]     
 
 const Hero = () => {
   const [currentText, setCurrentText] = useState('')
